@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "node-rstp-stream"
+    "url": "spiderius/node-rstp-stream"
   },
-  "author": "David Jsa <david@jsa.me>",
+  "author": "Kirill A Repkin <kirill@repkin.su>",
   "license": "MIT",
   "devDependencies": {
     "coffee-script": "^1.8.0"
